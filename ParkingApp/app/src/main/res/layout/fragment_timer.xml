@@ -1,0 +1,106 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="cse5236.parkingapp.TimerActivity$PlaceholderFragment">
+<!--
+
+    <TextView
+        android:id="@+id/meterexpiration"
+        android:text="@string/meterexpiration"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/timedatetable"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/meterexpiration"
+        android:padding="2dip">
+
+        <TableRow
+            android:id="@+id/timedaterow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dip"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/time"
+                android:text="Time"
+                android:width="150dip"
+                android:gravity="center"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <TextView
+                android:id="@+id/date"
+                android:text="Date"
+                android:width="150dip"
+                android:gravity="center"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        </TableRow>
+
+    </TableLayout>
+
+    <TextView
+        android:id="@+id/timeremaining"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/timedatetable"
+        android:text="Time Remaining"
+        android:gravity="center"
+        android:padding="10dip"/>
+
+    <Button
+        android:id="@+id/timerbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/timeremaining"
+        android:gravity="center"
+        android:padding="10dip"
+        android:text="Start/Stop Timer"/>
+
+
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/footertable"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:padding="2dip"
+        >
+
+        <TableRow
+            android:id="@+id/footerrow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dip"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/parkingtype"
+                android:layout_width="150dip"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="5dip"
+                android:text="Parking Type"/>
+
+            <Button
+                android:id="@+id/backtodetails"
+                android:layout_width="150dip"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="5dip"
+                android:text="Back to Details"/>
+
+        </TableRow>
+
+    </TableLayout>
+-->
+
+
+</RelativeLayout>

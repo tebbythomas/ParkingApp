@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Parking Finder App</string>
+    <string name="edit_message">Enter a Location</string>
+    <string name="button_send">Find</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_mapview">Map View</string>
+    <string name="street">Free Street Parking</string>
+    <string name="meter">Metered Parking</string>
+    <string name="action_settings">Settings</string>
+    <string name="help1">Step 1: To find a parking spot in a 1 mile radius, key in a location and choose the type of parking you are looking for</string>
+    <string name="help2">Step 2: Tap on the Find button to go to the map view and see the nearest parking zones</string>
+    <string name="title_activity_timer">TimerActivity</string>
+    <string name="meterexpiration">Meter Expiration</string>
+    <string name="title_activity_details">Details</string>
+    <string name="title_activity_list">List</string>
+    <string name="currentdetails"><u>Current Details</u></string>
+    <string name="getdirections">Get Directions</string>
+    <string name="alltimes"><u>All Times</u></string>
+    <string name="allyearround">All year round</string>
+    <string name="parkingtype">Parking Type</string>
+    <string name="backtolist">Back to List</string>
+    <string name="day">Day</string>
+    <string name="timeframe">Timeframe</string>
+    <string name="price">Price</string>
+    <string name="list">List View</string>
+    <string name="timer">Timer</string>
+
+
+</resources>

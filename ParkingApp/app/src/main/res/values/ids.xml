@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="checkbox_meter" type="id">meter</item>
+    <item name="checkbox_street" type="id">street</item>
+    <item name="footertable" type="id">footertable</item>
+</resources>
